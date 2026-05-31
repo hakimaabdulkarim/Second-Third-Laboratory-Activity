@@ -435,3 +435,22 @@ Demonstration Video
 
 Deployment URL
 ```
+
+
+
+
+## REFLECTION 
+
+### Ampuan Ayyah
+This project provided valuable insight into the design and implementation of distributed systems. Before working on this activity, I had limited experience with cloud platforms and message queuing services. Through the project, I learned how different technologies such as Supabase, CloudAMQP, GitHub, and Render can be combined to create an event-driven architecture for processing data across multiple components.
+
+One of the most significant challenges was working with limited resources. Some project tasks had to be completed using a cellphone, which made file management, deployment configuration, and service setup more complicated than expected. Small configuration errors often required additional troubleshooting because multiple services needed to be configured correctly. As a result, I developed a greater appreciation for the importance of planning, organization, and attention to detail when working with distributed applications.
+
+Although the project was not fully completed and some deployment stages remained unfinished, I gained a much better understanding of distributed computing principles. I learned the purpose of message queues, cloud databases, and service-based architectures, as well as the challenges involved in connecting multiple systems together. Overall, this project strengthened my knowledge of distributed systems and provided practical experience that will be useful in future software development projects.
+
+### Abdulkarim Hakima 
+Working on this Distributed Voting System project was both challenging and educational. One of the biggest difficulties our group encountered was completing the project with limited resources. Much of the setup process had to be done using a mobile phone instead of a laptop, which made configuring cloud services and managing project files more difficult. Navigating between GitHub, Supabase, CloudAMQP, and Render on a small screen required additional time and effort, especially when entering configuration details and troubleshooting setup issues.
+
+Throughout the project, I learned how distributed systems divide tasks among multiple components instead of handling everything in a single application. I gained experience creating a cloud database using Supabase, setting up a RabbitMQ message queue through CloudAMQP, organizing a project repository in GitHub, and preparing deployment configurations in Render. Although some deployment and testing stages were not completed, the setup process helped me understand how data would flow through a distributed architecture and how each component plays a specific role within the system.
+
+Another challenge was learning unfamiliar technologies within a limited amount of time. Understanding how different services connect and communicate required careful reading of documentation and repeated troubleshooting. Despite these challenges, the project improved my understanding of distributed computing concepts and gave me practical experience with cloud-based tools and system architecture design.
